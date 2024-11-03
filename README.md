@@ -6,10 +6,10 @@
 
 ## 🛠️ Skills
 - **Languages:** Python, C/C++, Java, Rust
-- **Cybersecurity:** Red Teaming, Penetration Testing, Application Security, Vulnerability Assessments, Architecture, Implementation
+- **Technical Skills:** Red Teaming, Penetration Testing, Vulnerability Assessments, Application Security, Reverse Engineering, Security Architecture & Implementation, Network Security, Virtualization, DevSecOps, Cloud
+- **Soft Skills:** Report Writing, Presentations, Teamwork, Critical Thinking, Problem-solving
 - **Frameworks & Standards:** OWASP Projects, MITRE Frameworks, NIST CSF & SP's, ISO/IEC 27000, CISv8
-- **Technical Skills:** Application Security, Reverse Engineering, Network Security, Virtualization, DevSecOps, Cloud
-- **Soft Skills:** Report Writing, Presentations, Teamwork, Problem-solving
+
   
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovarelas&show_icons=true&theme=radical)
