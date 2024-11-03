@@ -6,7 +6,7 @@
 
 ## 🛠️ Skills
 - **Languages:** Python, C/C++, Java, Rust
-- **Technical Skills:** Red Teaming, Penetration Testing, Vulnerability Assessments, Application Security, Reverse Engineering, Security Architecture & Implementation, Network Security, Virtualization, DevSecOps, Cloud
+- **Technical Skills:** Red Teaming, Penetration Testing, Vulnerability Assessments, Application Security, Reverse Engineering, Network Security, Virtualization, DevSecOps, Cloud, Security Architecture & Implementation
 - **Soft Skills:** Report Writing, Presentations, Teamwork, Critical Thinking, Problem-solving
 - **Frameworks & Standards:** OWASP Projects, MITRE Frameworks, NIST CSF & SP's, ISO/IEC 27000, CISv8
 
