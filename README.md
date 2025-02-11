@@ -1,46 +1,49 @@
 
 ## 🚀 About Me
-- 🌍 Based in Portugal
 - 💼 Cybersecurity Professional
-- 🏞️ Mountain biking, hiking, traveling, reading about advanced hacking techniques
+- 🏞️ Mountain biking, traveling, reading about advanced hacking techniques
+- 🌍 Based in Portugal
+
 
 ## 🛠️ Skills
-- **Languages:** Python, C/C++, Java, Rust
-- **Technical Skills:** Red Teaming, Penetration Testing, Vulnerability Assessments, Application Security, Reverse Engineering, Network Security, Virtualization, DevSecOps, Cloud, Security Architecture & Implementation
-- **Soft Skills:** Report Writing, Presentations, Teamwork, Critical Thinking, Problem-solving
-- **Frameworks & Standards:** OWASP Projects, MITRE Frameworks, NIST CSF & SP's, ISO/IEC 27000, CISv8
+- **Programming & Scripting:** C/C++, Rust, Java, Python, Bash, PowerShell
+- **Security Domains:** Red Teaming, Pentesting, Application Security, DevSecOps, Reverse Engineering, Malware Analysis, Network & Cloud Security
+- **Technologies:** Windows & Linux, Virtualization (VMware, Hyper-V), Containers (Docker), Active Directory
+- **Soft Skills:** Report Writing, Presentations, Teamwork, Critical Thinking, Problem Solving
 
   
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovarelas&show_icons=true&theme=radical)
 
-## 🌟 Projects
+## 🌟 Featured Projects
 Here are some highlights of my projects:
 
-- **[Security Toolkit](https://securitytoolkit.github.io)** - An open-source catalog of security tools found in public sources & repos.
-- **[Rust Obfuscator LLVM](https://github.com/joaovarelas/Obfuscator-LLVM-16.0)** - Research and Docker image for adapting LLVM obfuscation techniques for Rust projects.
-- **[Steal Token Rust](https://github.com/joaovarelas/steal-token-rs)** - A tool for manipulating Windows security tokens using Rust.
-- **[Compromised Hosts Scanner](https://github.com/joaovarelas)** - Monitors and alerts on compromised systems using open-source intelligence sources and feeds.
-- **[Counter-Strike Game Engine Hacking](https://github.com/joaovarelas/CSGO-priv9-h00k)** - Developed cheat tools for Counter-Strike by reverse engineering game engine modules.
-- **[NetExec](https://github.com/Pennyw0rth/NetExec/releases/tag/v1.3.0)** - Contributed a module for enumerating Hyper-V servers and VM's to this pentesting tool.
+- **[Security Toolkit](https://securitytoolkit.github.io)** - Open-source project cataloging publicly available security tools.
+- **[NTDShadow](https://github.com/joaovarelas/ntdshadow)** - Tool for extracting the NTDS.dit Active Directory database through Volume Shadow Copies (VSS).
+- **[NetExec Contribution](https://github.com/Pennyw0rth/NetExec/releases/tag/v1.3.0)** - Contributed with a new module for Hyper-V enumeration.
+- **[Steal Token Rust](https://github.com/joaovarelas/steal-token-rs)** - Windows security token manipulation tool written in Rust.
+- **[Rust Obfuscator LLVM](https://github.com/joaovarelas/Obfuscator-LLVM-16.0)** - Research on adapting LLVM obfuscation techniques for Rust compiler.
+- **[Compromised Hosts Scanner](https://github.com/joaovarelas)** - OSINT-based tool for monitoring compromised systems.
+- **[Counter-Strike Cheats](https://github.com/joaovarelas/CSGO-priv9-h00k)** - Development of cheats for Counter-Strike by reversing game engine modules.
 
 
 ## 🏆 Certifications
-- Certified Red Team Operator (CRTO)
-- Offensive Security Certified Professional (OSCP)
-- Certified Ethical Hacker (CEH)
-- Check Point Certified Pentesting Expert (CCPE)
-- CompTIA Security+ (S+)
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Windows API Security Professional (WASP)
+- **Certified Red Team Operator (CRTO)**
+- **Offensive Security Certified Professional (OSCP)**
+- **Certified Ethical Hacker (CEH)**
+- **Check Point Certified Pentesting Expert (CCPE)**
+- **CompTIA Security+ (S+)**
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- **Windows API Security Professional (WASP)**
 
 ## ✉️ Get in Touch
 - 🌐 [Website](https://vrls.ws)
-- 📧 [Email](mailto:joaomvarelas+gh@gmail.com)
+- 📧 [Email](mailto:joao.mvarelas+gh@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/joaovarelas)
 - 🐙 [GitHub](https://github.com/joaovarelas)
 
-Feel free to reach out if you're interested in collaboration or just want to chat about cybersecurity! 😊
+
+Feel free to reach out if you're interested in collaboration or just want to chat! 😊
 
 ---
 
