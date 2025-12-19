@@ -1,8 +1,5 @@
 
 ## 🚀 About Me
-- 💼 Cybersecurity Professional
-- 🏞️ Mountain biking, traveling & reading
-- 🌍 Based in Portugal
 
 <p>
   <a href="https://vrls.ws/"><img src="https://img.shields.io/badge/📝_Blog-vrls.ws-black?style=for-the-badge" alt="Blog"/></a>
@@ -10,14 +7,14 @@
   <a href="https://www.linkedin.com/in/joaovarelas/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
+
+- 💼 Cybersecurity Professional
+- 🏞️ Mountain biking, traveling & reading
+- 🌍 Based in Portugal
+
+
+
 ## 🛠️ Skills
-- **Programming & Scripting:** C/C++, Rust, Java, Python, Bash, PowerShell
-- **Security Domains:** Red Teaming, Pentesting, Application Security, DevSecOps, Reverse Engineering, Malware Analysis, Network & Cloud Security
-- **Technologies:** Windows & Linux, Virtualization (VMware, Hyper-V), Containers, Active Directory
-- **Soft Skills:** Report Writing, Presentations, Teamwork, Critical Thinking, Problem Solving
-
-----
-
 
 
 ![Red Teaming](https://img.shields.io/badge/Red%20Teaming-ff0000?style=for-the-badge&logoColor=white)
