@@ -1,16 +1,74 @@
-## Hi there 👋
 
-<!--
-**joaovarelas/joaovarelas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💼 Cybersecurity Professional
+- 🏞️ Mountain biking, traveling & reading
+- 🌍 Based in Portugal
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://vrls.ws/"><img src="https://img.shields.io/badge/📝_Blog-vrls.ws-black?style=for-the-badge" alt="Blog"/></a>
+  <a href="https://twitter.com/joaovarelas"><img src="https://img.shields.io/badge/Twitter-@joaovarelas-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/joaovarelas/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Programming & Scripting:** C/C++, Rust, Java, Python, Bash, PowerShell
+- **Security Domains:** Red Teaming, Pentesting, Application Security, DevSecOps, Reverse Engineering, Malware Analysis, Network & Cloud Security
+- **Technologies:** Windows & Linux, Virtualization (VMware, Hyper-V), Containers, Active Directory
+- **Soft Skills:** Report Writing, Presentations, Teamwork, Critical Thinking, Problem Solving
+
+----
+
+![C/C++](https://img.shields.io/badge/C/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+
+![Red Teaming](https://img.shields.io/badge/Red%20Teaming-ff0000?style=for-the-badge&logoColor=white)
+![Pentesting](https://img.shields.io/badge/Pentesting-critical?style=for-the-badge&logoColor=white)
+![Application Security](https://img.shields.io/badge/AppSec-9cf?style=for-the-badge&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-4b0082?style=for-the-badge&logo=devsecops&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-000000?style=for-the-badge&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network%20Security-006400?style=for-the-badge&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-1e90ff?style=for-the-badge&logo=cloud&logoColor=white)
+
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Virtualization](https://img.shields.io/badge/Virtualization-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovarelas&show_icons=true&theme=radical)
+
+## 🌟 Featured Projects
+Here are some highlights of my projects:
+
+- **[Security Toolkit](https://securitytoolkit.github.io)** - Open-source project cataloging publicly available security tools.
+- **[NTDShadow](https://github.com/joaovarelas/ntdshadow)** - Tool for extracting the NTDS.dit Active Directory database through Volume Shadow Copies (VSS).
+- **[NetExec Contribution](https://github.com/Pennyw0rth/NetExec/releases/tag/v1.3.0)** - Contributed with a new module for Hyper-V enumeration.
+- **[Steal Token Rust](https://github.com/joaovarelas/steal-token-rs)** - Windows security token manipulation tool written in Rust.
+- **[Rust Obfuscator LLVM](https://github.com/joaovarelas/Obfuscator-LLVM-16.0)** - Research on adapting LLVM obfuscation techniques for Rust compiler.
+- **[Compromised Hosts Scanner](https://github.com/joaovarelas)** - OSINT-based tool for monitoring compromised systems.
+- **[Counter-Strike Cheats](https://github.com/joaovarelas/CSGO-priv9-h00k)** - Development of cheats for Counter-Strike by reversing game engine modules.
+
+
+## ✉️ Get in Touch
+- 🌐 [Website](https://vrls.ws)
+- 📧 [Email](mailto:joao.mvarelas+gh@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/joaovarelas)
+- 🐙 [GitHub](https://github.com/joaovarelas)
+
+
+Feel free to reach out if you're interested in collaboration or just want to chat! 😊
+
+---
+
+Thanks for visiting my profile! 🚀
+
+
+*(Generated by GPT)*
