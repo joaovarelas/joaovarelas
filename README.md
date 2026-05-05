@@ -3,9 +3,11 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Cybersecurity Professional
-- 🏠 Based in Portugal
-- 🏞️ Mountain biking ⋅ Traveling ⋅ Reading
+💼 Cybersecurity Professional
+
+🏠 Based in Portugal
+
+🏞️ Mountain biking ⋅ Traveling ⋅ Reading
 
 
 ---
