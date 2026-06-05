@@ -20,7 +20,7 @@ Red Teaming | Offensive Tool Development | Reverse Engineering | Vuln Research |
 *   **[GodPotato++](https://github.com/joaovarelas/GodPotatoPlusPlus)** — A native C++ rewrite of the GodPotato LPE exploit, optimized for stealth eliminating CLR (.NET) dependencies.
 *   **[Steal Token Rust](https://github.com/joaovarelas/steal-token-rs)** — Weaponizing the Windows API in Rust for access token theft and process impersonation.
 *   **[Obfuscator-LLVM-16.0](https://github.com/joaovarelas/Obfuscator-LLVM-16.0)** — Compiler-level research on porting LLVM-based obfuscation to Rust.
-*   **[Crystal-Kit](https://github.com/rasta-mouse/Crystal-Kit/pull/3)** — Contributed hooks (`WSASocket`/`WSAStartup`) for spoofing to evade EDR detection on network telemetry.
+*   **[Crystal-Kit](https://github.com/rasta-mouse/Crystal-Kit/pull/3)** — Contributed hooks WSASocket/WSAStartup for spoofing to evade EDR detection on network telemetry.
 *   **[NetExec](https://github.com/Pennyw0rth/NetExec)** — Contributed Hyper-V enumeration module for the NetExec network exploitation tool (CrackMapExec successor).
 *   **[Counter-Strike Game Hacking](https://github.com/joaovarelas/CSGO-priv9-h00k)** — Reverse engineering engine modules in C++ to design cheats like aimbot, triggerbot and ESP.
 *   **[Cloud Storage k8s](https://github.com/joaovarelas/cloud-storage-k8s)** — Cloud-native file storage system deployed on Kubernetes with Terraform IaC, OIDC auth, autoscaling, and a full observability stack.
